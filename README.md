@@ -1,3 +1,6 @@
+![restaurant picture](./2-3%20A1%20restaurent%20pic.png)
+
+
 # Restaurant List
 A simple web application for searching all the restaurant informations.
 
